@@ -1,0 +1,233 @@
+/* 
+  InfoPlist.strings
+  Ucard
+
+  Created by WuLeilei on 15/4/13.
+  Copyright (c) 2015年 Ucard. All rights reserved.
+*/
+
+CFBundleDisplayName = "优卡";
+
+"localized001" = "邮箱";
+"localized002" = "昵称";
+"localized003" = "密码";
+"localized004" = "注册";
+"localized005" = "使用以下账号登录";
+"localized006" = "已有账号？";
+"localized007" = "立即登录";
+"localized008" = "登录";
+"localized009" = "没有账号？";
+"localized010" = "立即注册";
+"localized011" = "忘记密码";
+"localized012" = "确定";
+"localized013" = "输入昵称";
+"localized014" = "6~20位";
+"localized015" = "已给您发送重置密码邮件，请查收。";
+"localized016" = "重置密码";
+"localized017" = "填写昵称";
+
+"localized018" = "来自：";
+"localized019" = "赞";
+"localized020" = "评论";
+"localized021" = "写评论...";
+"localized022" = "提交";
+"localized023" = "已经赞过了";
+
+"localized024" = "优卡";
+"localized025" = "制作优卡";
+"localized026" = "我";
+
+"localized027" = "我已经阅读并同意接受";
+"localized028" = "使用条款";
+"localized029" = "付款";
+"localized030" = "价格：";
+"localized031" = "请阅读并同意接受使用条款";
+"localized032" = "付款失败";
+"localized033" = "选择你打印寄出的国家";
+"localized034" = "爱尔兰";
+//"localized035" = "英国";
+"localized035" = "电子明信片，仅体验";
+"localized036" = "中国";
+"localized037" = "选择支付方式";
+"localized038" = "支付宝";
+"localized039" = "信用卡";
+"localized040" = "使用条款";
+"localized041" = "持卡人姓名不能为空";
+"localized042" = "卡号不能为空";
+"localized043" = "有效期不能为空";
+"localized044" = "效验码不能为空";
+"localized045" = "卡号无效";
+"localized046" = "有效期无效";
+"localized047" = "校验码无效";
+"localized048" = "恭喜！您的明信片已提交，我们将尽快为您寄出。";
+"localized049" = "您的订单号: ";
+"localized050" = "您将很快会收到一封订单确认邮件。";
+"localized051" = "返回";
+
+"localized052" = "编辑资料";
+"localized053" = "设置";
+"localized054" = "查收";
+"localized055" = "信友";
+"localized056" = "草稿";
+"localized057" = "寄信";
+"localized058" = "收信";
+"localized059" = "公开到社区";
+"localized060" = "取消公开";
+"localized061" = "编辑资料";
+"localized062" = "账号信息";
+"localized063" = "关于";
+"localized064" = "帮助中心";
+"localized065" = "意见反馈";
+"localized066" = "注销";
+"localized067" = "保存";
+"localized068" = "名称";
+"localized069" = "中间名";
+"localized070" = "姓氏";
+"localized071" = "性别";
+"localized072" = "国家";
+"localized073" = "取消";
+"localized074" = "照片库";
+"localized075" = "拍照";
+"localized076" = "男";
+"localized077" = "女";
+"localized078" = "修改成功";
+"localized079" = "生日";
+"localized080" = "地址";
+"localized081" = "修改密码";
+"localized082" = "修改成功";
+"localized083" = "修改成功";
+"localized084" = "当前密码";
+"localized085" = "新密码";
+"localized086" = "密码长度必须6~12位";
+"localized087" = "当前密码错误";
+"localized088" = "修改成功";
+"localized089" = "请输入标题";
+"localized090" = "请输入内容";
+"localized091" = "标题不能为空";
+"localized092" = "内容不能为空";
+"localized093" = "提交成功";
+"localized094" = "提交失败";
+"localized095" = "查收明信片";
+"localized096" = "输入明信片编号";
+"localized097" = "+ 已收到明信片";
+"localized098" = "明信片详情";
+"localized099" = "编号:";
+"localized100" = "寄出国家:";
+"localized101" = "价格:";
+"localized102" = "支付方式:";
+"localized103" = "订单号:";
+"localized104" = "订单时间:";
+"localized105" = "编号:";
+"localized106" = "寄出国家:";
+"localized107" = "寄出时间:";
+
+"localized108" = "新建明信片";
+"localized109" = "效果";
+"localized110" = "边框";
+"localized111" = "亮度";
+"localized112" = "饱和度";
+"localized113" = "对比度";
+"localized114" = "写信";
+"localized115" = "签名";
+"localized116" = "地址";
+"localized117" = "完成";
+"localized118" = "重写";
+"localized119" = "名字";
+"localized120" = "中间名(非必须)";
+"localized121" = "姓氏";
+"localized122" = "门牌号";
+"localized123" = "街道";
+"localized124" = "城市";
+"localized125" = "省份/县";
+"localized126" = "邮政编码(非必须)";
+"localized127" = "国家";
+"localized128" = "写信";
+"localized129" = "提交";
+"localized130" = "签名";
+"localized131" = "地址";
+"localized132" = "字体与大小";
+"localized134" = "请删除";
+"localized135" = "个字符";
+
+"localized136" = "优卡";
+"localized137" = "分享成功";
+"localized138" = "脸书";
+"localized139" = "微信朋友圈";
+"localized140" = "分享到";
+
+"localized141" = "网络异常";
+"localized142" = "操作失败";
+"localized143" = "数据异常";
+"localized144" = "未知错误";
+
+"localized145" = "持卡者姓名";
+"localized146" = "信用卡号";
+"localized147" = "有效期(MM/YY)";
+"localized148" = "校验码";
+
+"localized149" = "扫描右侧二维码下载优卡。";
+
+"localized150" = "用户名或密码错误";
+"localized151" = "用户名或密码错误";
+"localized152" = "此邮箱已经注册过了";
+"localized153" = "昵称不能为空";
+"localized154" = "用户不存在";
+"localized155" = "此用户已经注册过了";
+"localized156" = "第三方用户ID不能为空";
+"localized157" = "注册类型不能为空";
+"localized158" = "昵称不能为空";
+"localized159" = "注册类型不能为空";
+"localized160" = "第三方用户ID不能为空";
+"localized161" = "此邮箱已经注册过了";
+"localized162" = "此ID已经注册过了";
+"localized163" = "登录失败";
+"localized164" = "此邮箱不存在";
+"localized165" = "匹配失败";
+"localized166" = "只上传了一张图片或图片格式不正确";
+"localized167" = "图片尺寸不正确";
+"localized168" = "用户不存在";
+"localized169" = "图片不能为空";
+"localized170" = "图片不能大于500K";
+"localized171" = "用户不存在";
+"localized172" = "明信片和用户不匹配";
+"localized173" = "明信片不存在";
+"localized174" = "发送者和接收者相同";
+"localized175" = "已经建立好友关系了";
+"localized176" = "用户不存在";
+"localized177" = "用户存在";
+"localized178" = "没有明信片";
+"localized179" = "无此明信片";
+"localized180" = "此明信片未付款";
+"localized181" = "此明信片已经被查收了";
+"localized182" = "明信片不存在";
+"localized183" = "此明信片未公开";
+"localized184" = "不存在";
+
+"localized185" = "邮箱不能为空";
+"localized186" = "密码不能为空";
+
+"localized187" = "请选择照片";
+"localized188" = "请输入文本，送上祝福";
+"localized189" = "您还没签名，请签名后再提交";
+"localized190" = "请填写地址";
+"localized191" = "请输入";
+"localized192" = "请选择";
+"localized194" = "用户没有设置邮件账户";
+"localized195" = "请输入邮箱";
+"localized196" = "请输入昵称";
+"localized197" = "请输入密码";
+"localized198" = "邮箱无效";
+"localized199" = "密码长度必须是6~12位";
+
+"localized200" = "优卡意见反馈";
+"localized201" = "删除";
+
+"localized202" = "寄一张个性化的明信片";
+"localized203" = "Ucard是一款提供明信片VIP定制服务的潮人手机应用。照片变成明信片，添上祝福，带上英国/爱尔兰/中国的邮戳，让世界各地都感受你的脚步。而你的朋友还能分享你的“礼物”到我们的Ucard社区。";
+"localized204" = "分享你收到的Ucard明信片到社交网络";
+"localized205" = "进入你的账户板块，点击“查收”后在提示框内输入明信片编号（编号数字在你收到的实体明信片背面的二维码附近）。点击“搜索“后，你会看到明信片的电子版本并且你可以选择将它分享到Ucard社区或其他社交网络。";
+"localized206" = "为你的家人或朋友做一张Ucard明信片";
+"localized207" = "进入Ucard明信片制作板块：首先，你可拍一张满意的照片或者从照片库选择。第二步你可以对选订照片进行编辑。第三步，在明信片背面给他/她写下你想说的话,手写签名并填好收信人的地址。最后，支付7元人民币的定制费（含邮资），我们会为你打印并邮寄给他（她），你的Ucard定制成功。";
+"localized208" = "为Ucard社区里他人的明信片点赞，为你的回忆照片墙着色";
+"localized209" = "在我们的Ucard社区，为他人分享的明信片点赞或评论。在你的账户里，完成“草稿“箱中的的明信片；查看”收信“中你收到的明信片和”寄信“中你寄出的明信片，看他们在社区里的火热度和评论。";
+"localized210" = "进入";

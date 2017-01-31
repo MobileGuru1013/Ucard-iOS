@@ -1,0 +1,33 @@
+//
+//  Prefix.pch
+//  Ucard
+//
+//  Created by Conner Wu on 15-3-20.
+//  Copyright (c) 2015年 Ucard. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Constants.h"
+#import "Singleton.h"
+#import "DatabaseManager.h"
+#import "NetworkRequest.h"
+#endif
+
+#define kR35 CGSizeEqualToSize([UIScreen mainScreen].bounds.size, CGSizeMake(320, 480))
+#define kR40 CGSizeEqualToSize([UIScreen mainScreen].bounds.size, CGSizeMake(320, 568))
+#define kR47 CGSizeEqualToSize([UIScreen mainScreen].bounds.size, CGSizeMake(375, 667))
+#define kR55 CGSizeEqualToSize([UIScreen mainScreen].bounds.size, CGSizeMake(414, 736))
+
+#define kScreenWidth CGRectGetWidth([UIScreen mainScreen].bounds)
+#define kScreenHeight CGRectGetHeight([UIScreen mainScreen].bounds)
+
+#define iOS7 [[[UIDevice currentDevice]systemVersion] floatValue] >= 7.0
+#define iOS8 [[[UIDevice currentDevice]systemVersion] floatValue] >= 8.0

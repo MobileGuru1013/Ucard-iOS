@@ -1,0 +1,260 @@
+/* 
+  InfoPlist.strings
+  Ucard
+
+  Created by WuLeilei on 15/4/13.
+  Copyright (c) 2015年 Ucard. All rights reserved.
+*/
+
+CFBundleDisplayName = "Ucard";
+
+"localized001" = "Email";
+"localized002" = "Name";
+"localized003" = "Password";
+"localized004" = "Sign up";
+"localized005" = "or Sign In with";
+"localized006" = "Already have an account?";
+"localized007" = "Log in";
+"localized008" = "Log in";
+"localized009" = "New Here?";
+"localized010" = "Sign up";
+"localized011" = "Forget password?";
+"localized012" = "OK";
+"localized013" = "Please input username";
+"localized014" = "Should be 6~20 characters";
+"localized015" = "We sent you an email with a link to reset your password.";
+"localized016" = "Reset password";
+"localized017" = "Username";
+
+"localized018" = "From: ";
+"localized019" = "";
+"localized020" = "";
+"localized021" = "Add a comment";
+"localized022" = "Submit";
+"localized023" = "Already praised";
+
+"localized024" = "Ucard";
+"localized025" = "Make Ucard";
+"localized026" = "Profile";
+
+"localized027" = "I agree to the";
+"localized028" = "Terms and Conditions";
+"localized029" = "Pay";
+"localized030" = "Price: ";
+"localized031" = "Please read and accepted the terms and conditions first.";
+"localized032" = "Pay failed";
+"localized033" = "To be printed and sent from";
+"localized034" = "Ireland";
+"localized035" = "E-card for testing";
+"localized036" = "China";
+"localized037" = "Pay with";
+"localized038" = "Alipay";
+"localized039" = "Credit card";
+"localized040" = "Terms and Conditions";
+"localized041" = "Please input Cardholder";
+"localized042" = "Please input credit card number";
+"localized043" = "Please input validate date";
+"localized044" = "Please input verify code";
+"localized045" = "Invalid credit card number";
+"localized046" = "Invalid Validate date";
+"localized047" = "Invalid verify code";
+"localized048" = "Great! Postcard was sent successfully. It will be delivery soon.";
+"localized049" = "Order number: ";
+"localized050" = "You will receive a confirmation email shortly.";
+"localized051" = "Back to homepage";
+
+"localized052" = "Edit Profile";
+"localized053" = "Settings";
+"localized054" = "Receive";
+"localized055" = "What's Up";
+"localized056" = "Draft";
+"localized057" = "Sent";
+"localized058" = "Received";
+"localized059" = "Public";
+"localized060" = "Unpublic";
+"localized061" = "Edit Profile";
+"localized062" = "Edit Account";
+"localized063" = "About Us";
+"localized064" = "Notifications";
+"localized065" = "Feedback";
+"localized066" = "Log Out";
+"localized067" = "Save";
+"localized068" = "First name";
+"localized069" = "Middle name";
+"localized070" = "Last name";
+"localized071" = "Gender";
+"localized072" = "Country";
+"localized073" = "Cancel";
+"localized074" = "Library";
+"localized075" = "Take a photo";
+"localized076" = "Male";
+"localized077" = "Female";
+"localized078" = "Successfully";
+"localized079" = "Born";
+"localized080" = "Address";
+"localized081" = "Edit password";
+"localized082" = "Successfully";
+"localized083" = "Successfully";
+"localized084" = "Current password";
+"localized085" = "New password";
+"localized086" = "At least 6~12";
+"localized087" = "Current password is wrong";
+"localized088" = "Successfully";
+"localized089" = "Please input title";
+"localized090" = "Please input content";
+"localized091" = "Please input title";
+"localized092" = "Please input content";
+"localized093" = "Successfully";
+"localized094" = "Failure";
+"localized095" = "Receive Postcard";
+"localized096" = "Input postcard number";
+"localized097" = "+ Received";
+"localized098" = "Postcard detail";
+"localized099" = "Number:";
+"localized100" = "From:";
+"localized101" = "Price:";
+"localized102" = "Pay:";
+"localized103" = "Order:";
+"localized104" = "Time:";
+"localized105" = "Number:";
+"localized106" = "Sent from:";
+"localized107" = "Sent time:";
+
+"localized108" = "";
+"localized109" = "Effects";
+"localized110" = "Frame";
+"localized111" = "Brightness";
+"localized112" = "Saturation";
+"localized113" = "Contrast";
+"localized114" = "Greeting";
+"localized115" = "Signature";
+"localized116" = "Address";
+"localized117" = "Done";
+"localized118" = "Redo";
+"localized119" = "First name";
+"localized120" = "Middle name(Optional)";
+"localized121" = "Last name";
+"localized122" = "House";
+"localized123" = "Street";
+"localized124" = "City";
+"localized125" = "Province/County";
+"localized126" = "ZIP(Optional)";
+"localized127" = "Country";
+"localized128" = "Greeting";
+"localized129" = "Submit";
+"localized130" = "Signature";
+"localized131" = "Fill the address detail";
+"localized132" = "Font & Size";
+"localized134" = "Please remove";
+"localized135" = "characters";
+
+"localized137" = "Successfully";
+"localized138" = "Facebook";
+"localized139" = "WeChat Moments";
+"localized140" = "Share to";
+
+"localized141" = "Network error";
+"localized142" = "Failure";
+"localized143" = "Data error";
+"localized144" = "Unknown error";
+
+"localized145" = "Card holder";
+"localized146" = "Credit Card";
+"localized147" = "Expiration Date(MM/YY)";
+"localized148" = "Verification number";
+
+"localized150" = "Cannot signin, user not exist";
+"localized151" = "Cannot signin, password is wrong";
+"localized152" = "Cannot register, email has been registered";
+"localized153" = "Cannot register, username is empty";
+"localized154" = "Cannot get user details, user not found";
+"localized155" = "User have already registered";
+"localized156" = "Third party uid is empty";
+"localized157" = "Registration type is empty";
+"localized158" = "Third party registration failed, username is empty";
+"localized159" = "Third party registration failed, register type is empty";
+"localized160" = "Third party registration failed, thirdparty uid is empty";
+"localized161" = "Third party registration failed, email has registered";
+"localized162" = "Third party registration failed, ID of this type has already registered";
+"localized163" = "Third party login failed";
+"localized164" = "User does not add email";
+"localized165" = "Match failed";
+"localized166" = "Only one side is chosen, or not jpg format";
+"localized167" = "size is not 1748 x 1240";
+"localized168" = "User id is not fount";
+"localized169" = "Cannot add personal details, not select image (jpg or png or gif)";
+"localized170" = "Cannot add personal details, image is biger than 500K";
+"localized171" = "User id is not found";
+"localized172" = "Generate record failed, postcard_uid and uuid not match";
+"localized173" = "postcard confirm code not match";
+"localized174" = "Sending state changed, receiver record generated, not generate friend record, sender and receiver is the same person";
+"localized175" = "Sending state changed, receiver record generated, friend generation failed, friend record has exist";
+"localized176" = "User id is not found";
+"localized177" = "User id is not found in record table";
+"localized178" = "This user has not posted a postcard";
+"localized179" = "Postcard id is not found";
+"localized180" = "This postcard is not paid";
+"localized181" = "This postcard is confirmed by other user";
+"localized182" = "Postcard id is not found in the record";
+"localized183" = "This postcard is not public yet";
+"localized184" = "Record id is not found";
+
+"localized185" = "Please input email address";
+"localized186" = "Please input password";
+
+"localized187" = "Please choose photo from library or take a photo";
+"localized188" = "Please input text first";
+"localized189" = "Please sign first";
+"localized190" = "Please fill address information form";
+"localized191" = "Please input ";
+"localized192" = "Please choose ";
+"localized194" = "Please set email account first";
+"localized195" = "Please input email address";
+"localized196" = "Please input username";
+"localized197" = "Please input password";
+"localized198" = "Invalid email address";
+"localized199" = "Password should be 6~20 characters";
+
+"localized200" = "Ucard Feedback";
+"localized201" = "Delete";
+
+"localized202" = "Send a picture as a real postcard";
+"localized203" = "Ucard is a wonderful mobile app for you to share a personalized postcard. Through Ucard, we print your photograph and send it worldwide, with a stamp and postmark from UK, Ireland or China. Then your friends' can share your \"gift\" in our Ucard.";
+"localized204" = "Share received real \"Ucard\" in social network";
+"localized205" = "Going into your account, click \"Collect\" then type \"Ucard serial number\" from the real postcard you received from your friends (It's on the back of postcard beside the QR code). After press \"search\", you will see your postcard in E-version and you can share it to Ucard community or other social network.";
+"localized206" = "Making a Ucard Postcard for your families or friends";
+"localized207" = "Going into Ucard postcard, firstly you can take a photo or choose one from gallery and edit your picture. Secondly, write your greetings and wishes, sign your signature with handwriting, filled your recipient's address. Finally, pay only €2.99(Inc. stamp), your personalized postcard will be printed and sent to your parents or friends by us.";
+"localized208" = "Like others' postcard in Ucard Community, Color your own memory photos.";
+"localized209" = "Going into our Ucard community, like or comment others' postcard. Going into your account, finish your \"draft\" postcard; check your received postcard and sent postcard, and seeing how popular they're in Ucard community.";
+"localized210" = "Skip";
+
+"localized211" = "Ucard send me a real worldwide personalized Postcard, record your story.";
+
+
+"localized212" = "Total";
+"localized213" = "Redeem Code (if any)";
+"localized214" = "Code";
+"localized215" = "Pay Via PayPal";
+"localized216" = "Pay Via Wechat";
+"localized217" = "OK";
+"localized218" = "Paypal";
+"localized219" = "Confirm Email";
+"localized220" = "Lomo";
+"localized221" = "Rise";
+"localized222" = "Sepia";
+"localized223" = "Confirm";
+"localized224" = "Type captions";
+"localized225" = "Next";
+"localized226" = "Choose Text Color:";
+"localized227" = "black";
+"localized228" = "blue";
+"localized229" = "Greeting";
+"localized230" = "Signature";
+"localized231" = "Address";
+"localized232" = "Stamp";
+"localized233" = "Cancel";
+"localized234" = "U CARD";
+"localized235" = "NOTIFICATIONS";
+"localized236" = "Type here add captions";
+
+

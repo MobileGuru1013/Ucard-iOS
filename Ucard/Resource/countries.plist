@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>cn</key>
+		<string>安道尔</string>
+		<key>en</key>
+		<string>Andorra</string>
+		<key>key</key>
+		<string>AD</string>
+		<key>py</key>
+		<string>an dao er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿拉伯联合酋长国</string>
+		<key>en</key>
+		<string>United Arab Emirates</string>
+		<key>key</key>
+		<string>AE</string>
+		<key>py</key>
+		<string>a la bo lian he qiu zhang guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿富汗</string>
+		<key>en</key>
+		<string>Afghanistan</string>
+		<key>key</key>
+		<string>AF</string>
+		<key>py</key>
+		<string>a fu han</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>安提瓜和巴布达</string>
+		<key>en</key>
+		<string>Antigua and Barbuda</string>
+		<key>key</key>
+		<string>AG</string>
+		<key>py</key>
+		<string>an ti gua he ba bu da</string>
+	</dict>
+	<dict/>
+	<dict>
+		<key>cn</key>
+		<string>阿尔巴尼亚</string>
+		<key>en</key>
+		<string>Albania</string>
+		<key>key</key>
+		<string>AL</string>
+		<key>py</key>
+		<string>a er ba ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>亚美尼亚</string>
+		<key>en</key>
+		<string>Armenia</string>
+		<key>key</key>
+		<string>AM</string>
+		<key>py</key>
+		<string>ya mei ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>安哥拉</string>
+		<key>en</key>
+		<string>Angola</string>
+		<key>key</key>
+		<string>AO</string>
+		<key>py</key>
+		<string>an ge la</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>南极洲</string>
+		<key>en</key>
+		<string>Antarctica</string>
+		<key>key</key>
+		<string>AQ</string>
+		<key>py</key>
+		<string>nan ji zhou</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿根廷</string>
+		<key>en</key>
+		<string>Argentina</string>
+		<key>key</key>
+		<string>AR</string>
+		<key>py</key>
+		<string>a gen ting</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>美属萨摩亚</string>
+		<key>en</key>
+		<string>American Samoa</string>
+		<key>key</key>
+		<string>AS</string>
+		<key>py</key>
+		<string>mei shu sa mo ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>奥地利</string>
+		<key>en</key>
+		<string>Austria</string>
+		<key>key</key>
+		<string>AT</string>
+		<key>py</key>
+		<string>ao di li</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>澳大利亚</string>
+		<key>en</key>
+		<string>Australia</string>
+		<key>key</key>
+		<string>AU</string>
+		<key>py</key>
+		<string>ao da li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿鲁巴</string>
+		<key>en</key>
+		<string>Aruba</string>
+		<key>key</key>
+		<string>AW</string>
+		<key>py</key>
+		<string>a lu ba</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>奥兰群岛</string>
+		<key>en</key>
+		<string>Åland Islands</string>
+		<key>key</key>
+		<string>AX</string>
+		<key>py</key>
+		<string>ao lan qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿塞拜疆</string>
+		<key>en</key>
+		<string>Azerbaijan</string>
+		<key>key</key>
+		<string>AZ</string>
+		<key>py</key>
+		<string>a sai bai jiang</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>波斯尼亚 - 黑塞哥维那</string>
+		<key>en</key>
+		<string>Bosnia and Herzegovina</string>
+		<key>key</key>
+		<string>BA</string>
+		<key>py</key>
+		<string>bo si ni ya  - hei sai ge wei nei</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴巴多斯</string>
+		<key>en</key>
+		<string>Barbados</string>
+		<key>key</key>
+		<string>BB</string>
+		<key>py</key>
+		<string>ba ba duo si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>孟加拉国</string>
+		<key>en</key>
+		<string>Bangladesh</string>
+		<key>key</key>
+		<string>BD</string>
+		<key>py</key>
+		<string>meng jia la guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>比利时</string>
+		<key>en</key>
+		<string>Belgium</string>
+		<key>key</key>
+		<string>BE</string>
+		<key>py</key>
+		<string>bi li shi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>布基纳法索</string>
+		<key>en</key>
+		<string>Burkina Faso</string>
+		<key>key</key>
+		<string>BF</string>
+		<key>py</key>
+		<string>bu ji na fa suo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>保加利亚</string>
+		<key>en</key>
+		<string>Bulgaria</string>
+		<key>key</key>
+		<string>BG</string>
+		<key>py</key>
+		<string>bao jia li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴林</string>
+		<key>en</key>
+		<string>Bahrain</string>
+		<key>key</key>
+		<string>BH</string>
+		<key>py</key>
+		<string>ba lin</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>蒲隆地</string>
+		<key>en</key>
+		<string>Burundi</string>
+		<key>key</key>
+		<string>BI</string>
+		<key>py</key>
+		<string>pu long di</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>贝宁</string>
+		<key>en</key>
+		<string>Benin</string>
+		<key>key</key>
+		<string>BJ</string>
+		<key>py</key>
+		<string>bei ning</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣巴泰勒米</string>
+		<key>en</key>
+		<string>Saint Barthélemy</string>
+		<key>key</key>
+		<string>BL</string>
+		<key>py</key>
+		<string>sheng ba tai le mi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>百慕达群岛</string>
+		<key>en</key>
+		<string>Bermuda</string>
+		<key>key</key>
+		<string>BM</string>
+		<key>py</key>
+		<string>bai mu da qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>文莱</string>
+		<key>en</key>
+		<string>Brunei</string>
+		<key>key</key>
+		<string>BN</string>
+		<key>py</key>
+		<string>wen lai</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>玻利维亚</string>
+		<key>en</key>
+		<string>Bolivia</string>
+		<key>key</key>
+		<string>BO</string>
+		<key>py</key>
+		<string>bo li wei ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>荷兰加勒比区</string>
+		<key>en</key>
+		<string>Caribbean Netherlands</string>
+		<key>key</key>
+		<string>BQ</string>
+		<key>py</key>
+		<string>he lan jia le bi qu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴西</string>
+		<key>en</key>
+		<string>Brazil</string>
+		<key>key</key>
+		<string>BR</string>
+		<key>py</key>
+		<string>ba xi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴哈马</string>
+		<key>en</key>
+		<string>Bahamas</string>
+		<key>key</key>
+		<string>BS</string>
+		<key>py</key>
+		<string>ba ha ma</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>不丹</string>
+		<key>en</key>
+		<string>Bhutan</string>
+		<key>key</key>
+		<string>BT</string>
+		<key>py</key>
+		<string>bu dan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>布维岛</string>
+		<key>en</key>
+		<string>Bouvet Island</string>
+		<key>key</key>
+		<string>BV</string>
+		<key>py</key>
+		<string>bu wei dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>博茨瓦纳</string>
+		<key>en</key>
+		<string>Botswana</string>
+		<key>key</key>
+		<string>BW</string>
+		<key>py</key>
+		<string>bo ci wa na</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>白俄罗斯</string>
+		<key>en</key>
+		<string>Belarus</string>
+		<key>key</key>
+		<string>BY</string>
+		<key>py</key>
+		<string>bai e luo si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>伯利兹</string>
+		<key>en</key>
+		<string>Belize</string>
+		<key>key</key>
+		<string>BZ</string>
+		<key>py</key>
+		<string>bo li zi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>加拿大</string>
+		<key>en</key>
+		<string>Canada</string>
+		<key>key</key>
+		<string>CA</string>
+		<key>py</key>
+		<string>jia na da</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>科科斯群岛</string>
+		<key>en</key>
+		<string>Cocos (Keeling) Islands</string>
+		<key>key</key>
+		<string>CC</string>
+		<key>py</key>
+		<string>ke ke si qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>刚果民主共和国</string>
+		<key>en</key>
+		<string>Democratic Republic of the Congo</string>
+		<key>key</key>
+		<string>CD</string>
+		<key>py</key>
+		<string>gang guo min zhu gong he guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>中非共和国</string>
+		<key>en</key>
+		<string>Central African Republic</string>
+		<key>key</key>
+		<string>CF</string>
+		<key>py</key>
+		<string>zhong fei gong he guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>刚果共和国</string>
+		<key>en</key>
+		<string>Republic of the Congo</string>
+		<key>key</key>
+		<string>CG</string>
+		<key>py</key>
+		<string>gang guo gong he guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>瑞士</string>
+		<key>en</key>
+		<string>Switzerland</string>
+		<key>key</key>
+		<string>CH</string>
+		<key>py</key>
+		<string>rui shi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>科特迪瓦</string>
+		<key>en</key>
+		<string>Ivory Coast</string>
+		<key>key</key>
+		<string>CI</string>
+		<key>py</key>
+		<string>ke te di wa</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>库克群岛</string>
+		<key>en</key>
+		<string>Cook Islands</string>
+		<key>key</key>
+		<string>CK</string>
+		<key>py</key>
+		<string>ku ke qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>智利</string>
+		<key>en</key>
+		<string>Chile</string>
+		<key>key</key>
+		<string>CL</string>
+		<key>py</key>
+		<string>zhi li</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>喀麦隆</string>
+		<key>en</key>
+		<string>Cameroon</string>
+		<key>key</key>
+		<string>CM</string>
+		<key>py</key>
+		<string>ka mai long</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>中国</string>
+		<key>en</key>
+		<string>China</string>
+		<key>key</key>
+		<string>CN</string>
+		<key>py</key>
+		<string>zhong guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>哥伦比亚</string>
+		<key>en</key>
+		<string>Colombia</string>
+		<key>key</key>
+		<string>CO</string>
+		<key>py</key>
+		<string>ge lun bi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>哥斯达黎加</string>
+		<key>en</key>
+		<string>Costa Rica</string>
+		<key>key</key>
+		<string>CR</string>
+		<key>py</key>
+		<string>ge si da li jia</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>古巴</string>
+		<key>en</key>
+		<string>Cuba</string>
+		<key>key</key>
+		<string>CU</string>
+		<key>py</key>
+		<string>gu ba</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>佛得角</string>
+		<key>en</key>
+		<string>Cape Verde</string>
+		<key>key</key>
+		<string>CV</string>
+		<key>py</key>
+		<string>fo de jiao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>库拉索</string>
+		<key>en</key>
+		<string>Curaçao</string>
+		<key>key</key>
+		<string>CW</string>
+		<key>py</key>
+		<string>ku la suo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣诞岛</string>
+		<key>en</key>
+		<string>Christmas Island</string>
+		<key>key</key>
+		<string>CX</string>
+		<key>py</key>
+		<string>sheng dan dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>塞浦路斯</string>
+		<key>en</key>
+		<string>Cyprus</string>
+		<key>key</key>
+		<string>CY</string>
+		<key>py</key>
+		<string>sai pu lu si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>捷克共和国</string>
+		<key>en</key>
+		<string>Czech Republic</string>
+		<key>key</key>
+		<string>CZ</string>
+		<key>py</key>
+		<string>jie ke gong he guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>德国</string>
+		<key>en</key>
+		<string>Germany</string>
+		<key>key</key>
+		<string>DE</string>
+		<key>py</key>
+		<string>de guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>吉布提</string>
+		<key>en</key>
+		<string>Djibouti</string>
+		<key>key</key>
+		<string>DJ</string>
+		<key>py</key>
+		<string>ji bu ti</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>丹麦</string>
+		<key>en</key>
+		<string>Denmark</string>
+		<key>key</key>
+		<string>DK</string>
+		<key>py</key>
+		<string>dan mai</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>多米尼克</string>
+		<key>en</key>
+		<string>Dominica</string>
+		<key>key</key>
+		<string>DM</string>
+		<key>py</key>
+		<string>duo mi ni ke</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>多米尼加共和国</string>
+		<key>en</key>
+		<string>Dominican Republic</string>
+		<key>key</key>
+		<string>DO</string>
+		<key>py</key>
+		<string>duo mi ni jia gong he guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿尔及利亚</string>
+		<key>en</key>
+		<string>Algeria</string>
+		<key>key</key>
+		<string>DZ</string>
+		<key>py</key>
+		<string>a er ji li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>厄瓜多尔</string>
+		<key>en</key>
+		<string>Ecuador</string>
+		<key>key</key>
+		<string>EC</string>
+		<key>py</key>
+		<string>e gua duo er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>爱沙尼亚</string>
+		<key>en</key>
+		<string>Estonia</string>
+		<key>key</key>
+		<string>EE</string>
+		<key>py</key>
+		<string>ai sha ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>埃及</string>
+		<key>en</key>
+		<string>Egypt</string>
+		<key>key</key>
+		<string>EG</string>
+		<key>py</key>
+		<string>ai ji</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>西撒哈拉</string>
+		<key>en</key>
+		<string>Western Sahara</string>
+		<key>key</key>
+		<string>EH</string>
+		<key>py</key>
+		<string>xi sa ha la</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>厄立特里亚</string>
+		<key>en</key>
+		<string>Eritrea</string>
+		<key>key</key>
+		<string>ER</string>
+		<key>py</key>
+		<string>e li te li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>西班牙</string>
+		<key>en</key>
+		<string>Spain</string>
+		<key>key</key>
+		<string>ES</string>
+		<key>py</key>
+		<string>xi ban ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>埃塞俄比亚</string>
+		<key>en</key>
+		<string>Ethiopia</string>
+		<key>key</key>
+		<string>ET</string>
+		<key>py</key>
+		<string>ai sai e bi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>芬兰</string>
+		<key>en</key>
+		<string>Finland</string>
+		<key>key</key>
+		<string>FI</string>
+		<key>py</key>
+		<string>fen lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>斐济</string>
+		<key>en</key>
+		<string>Fiji</string>
+		<key>key</key>
+		<string>FJ</string>
+		<key>py</key>
+		<string>fei ji</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>福克兰群岛</string>
+		<key>en</key>
+		<string>Falkland Islands</string>
+		<key>key</key>
+		<string>FK</string>
+		<key>py</key>
+		<string>fu ke lan qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>密克罗尼西亚</string>
+		<key>en</key>
+		<string>Federated States of Micronesia</string>
+		<key>key</key>
+		<string>FM</string>
+		<key>py</key>
+		<string>mi ke luo ni xi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>法罗群岛</string>
+		<key>en</key>
+		<string>Faroe Islands</string>
+		<key>key</key>
+		<string>FO</string>
+		<key>py</key>
+		<string>fa luo qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>法国</string>
+		<key>en</key>
+		<string>France</string>
+		<key>key</key>
+		<string>FR</string>
+		<key>py</key>
+		<string>fa guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>加蓬</string>
+		<key>en</key>
+		<string>Gabon</string>
+		<key>key</key>
+		<string>GA</string>
+		<key>py</key>
+		<string>jia peng</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>英国</string>
+		<key>en</key>
+		<string>United Kingdom</string>
+		<key>key</key>
+		<string>GB</string>
+		<key>py</key>
+		<string>ying guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>格林纳达</string>
+		<key>en</key>
+		<string>Grenada</string>
+		<key>key</key>
+		<string>GD</string>
+		<key>py</key>
+		<string>ge lin na da</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>格鲁吉亚</string>
+		<key>en</key>
+		<string>Georgia</string>
+		<key>key</key>
+		<string>GE</string>
+		<key>py</key>
+		<string>ge lu ji ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>法屬圭亞那</string>
+		<key>en</key>
+		<string>French Guiana</string>
+		<key>key</key>
+		<string>GF</string>
+		<key>py</key>
+		<string>fa shu gui ya nei</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>格恩西岛</string>
+		<key>en</key>
+		<string>Guernsey</string>
+		<key>key</key>
+		<string>GG</string>
+		<key>py</key>
+		<string>ge en xi dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>加纳</string>
+		<key>en</key>
+		<string>Ghana</string>
+		<key>key</key>
+		<string>GH</string>
+		<key>py</key>
+		<string>jia na</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>直布罗陀</string>
+		<key>en</key>
+		<string>Gibraltar</string>
+		<key>key</key>
+		<string>GI</string>
+		<key>py</key>
+		<string>zhi bu luo tuo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>格陵兰</string>
+		<key>en</key>
+		<string>Greenland</string>
+		<key>key</key>
+		<string>GL</string>
+		<key>py</key>
+		<string>ge ling lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>冈比亚</string>
+		<key>en</key>
+		<string>Gambia</string>
+		<key>key</key>
+		<string>GM</string>
+		<key>py</key>
+		<string>gang bi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>几内亚</string>
+		<key>en</key>
+		<string>Guinea</string>
+		<key>key</key>
+		<string>GN</string>
+		<key>py</key>
+		<string>ji nei ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>瓜德罗普岛</string>
+		<key>en</key>
+		<string>Guadeloupe</string>
+		<key>key</key>
+		<string>GP</string>
+		<key>py</key>
+		<string>gua de luo pu dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>赤道几内亚</string>
+		<key>en</key>
+		<string>Equatorial Guinea</string>
+		<key>key</key>
+		<string>GQ</string>
+		<key>py</key>
+		<string>chi dao ji nei ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>希腊</string>
+		<key>en</key>
+		<string>Greece</string>
+		<key>key</key>
+		<string>GR</string>
+		<key>py</key>
+		<string>xi la</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>南乔治亚岛和南桑威奇群岛</string>
+		<key>en</key>
+		<string>South Georgia and the South Sandwich Islands</string>
+		<key>key</key>
+		<string>GS</string>
+		<key>py</key>
+		<string>nan qiao zhi ya dao he nan sang wei qi qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>危地马拉</string>
+		<key>en</key>
+		<string>Guatemala</string>
+		<key>key</key>
+		<string>GT</string>
+		<key>py</key>
+		<string>wei di ma la</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>关岛</string>
+		<key>en</key>
+		<string>Guam</string>
+		<key>key</key>
+		<string>GU</string>
+		<key>py</key>
+		<string>guan dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>几内亚比绍</string>
+		<key>en</key>
+		<string>Guinea-Bissau</string>
+		<key>key</key>
+		<string>GW</string>
+		<key>py</key>
+		<string>ji nei ya bi shao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圭亚那</string>
+		<key>en</key>
+		<string>Guyana</string>
+		<key>key</key>
+		<string>GY</string>
+		<key>py</key>
+		<string>gui ya nei</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>香港</string>
+		<key>en</key>
+		<string>Hong Kong</string>
+		<key>key</key>
+		<string>HK</string>
+		<key>py</key>
+		<string>xiang gang</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>赫德岛和麦当劳群岛</string>
+		<key>en</key>
+		<string>Heard Island and McDonald Islands</string>
+		<key>key</key>
+		<string>HM</string>
+		<key>py</key>
+		<string>he de dao he mai dang lao qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>洪都拉斯</string>
+		<key>en</key>
+		<string>Honduras</string>
+		<key>key</key>
+		<string>HN</string>
+		<key>py</key>
+		<string>hong dou la si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>克罗地亚</string>
+		<key>en</key>
+		<string>Croatia</string>
+		<key>key</key>
+		<string>HR</string>
+		<key>py</key>
+		<string>ke luo di ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>海地</string>
+		<key>en</key>
+		<string>Haiti</string>
+		<key>key</key>
+		<string>HT</string>
+		<key>py</key>
+		<string>hai di</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>匈牙利</string>
+		<key>en</key>
+		<string>Hungary</string>
+		<key>key</key>
+		<string>HU</string>
+		<key>py</key>
+		<string>xiong ya li</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>印尼</string>
+		<key>en</key>
+		<string>Indonesia</string>
+		<key>key</key>
+		<string>ID</string>
+		<key>py</key>
+		<string>yin ni</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>爱尔兰</string>
+		<key>en</key>
+		<string>Ireland</string>
+		<key>key</key>
+		<string>IE</string>
+		<key>py</key>
+		<string>ai er lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>以色列</string>
+		<key>en</key>
+		<string>Israel</string>
+		<key>key</key>
+		<string>IL</string>
+		<key>py</key>
+		<string>yi se lie</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马恩岛</string>
+		<key>en</key>
+		<string>Isle of Man</string>
+		<key>key</key>
+		<string>IM</string>
+		<key>py</key>
+		<string>ma en dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>印度</string>
+		<key>en</key>
+		<string>India</string>
+		<key>key</key>
+		<string>IN</string>
+		<key>py</key>
+		<string>yin du</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>英属印度洋领地</string>
+		<key>en</key>
+		<string>British Indian Ocean Territory</string>
+		<key>key</key>
+		<string>IO</string>
+		<key>py</key>
+		<string>ying shu yin du yang ling di</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>伊拉克</string>
+		<key>en</key>
+		<string>Iraq</string>
+		<key>key</key>
+		<string>IQ</string>
+		<key>py</key>
+		<string>yi la ke</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>伊朗</string>
+		<key>en</key>
+		<string>Iran</string>
+		<key>key</key>
+		<string>IR</string>
+		<key>py</key>
+		<string>yi lang</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>冰岛</string>
+		<key>en</key>
+		<string>Iceland</string>
+		<key>key</key>
+		<string>IS</string>
+		<key>py</key>
+		<string>bing dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>意大利</string>
+		<key>en</key>
+		<string>Italy</string>
+		<key>key</key>
+		<string>IT</string>
+		<key>py</key>
+		<string>yi da li</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>泽西辖区</string>
+		<key>en</key>
+		<string>Bailiwick of Jersey</string>
+		<key>key</key>
+		<string>JE</string>
+		<key>py</key>
+		<string>ze xi xia qu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>牙买加</string>
+		<key>en</key>
+		<string>Jamaica</string>
+		<key>key</key>
+		<string>JM</string>
+		<key>py</key>
+		<string>ya mai jia</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>约旦</string>
+		<key>en</key>
+		<string>Jordan</string>
+		<key>key</key>
+		<string>JO</string>
+		<key>py</key>
+		<string>yue dan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>日本</string>
+		<key>en</key>
+		<string>Japan</string>
+		<key>key</key>
+		<string>JP</string>
+		<key>py</key>
+		<string>ri ben</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>肯尼亚</string>
+		<key>en</key>
+		<string>Kenya</string>
+		<key>key</key>
+		<string>KE</string>
+		<key>py</key>
+		<string>ken ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>吉尔吉斯斯坦</string>
+		<key>en</key>
+		<string>Kyrgyzstan</string>
+		<key>key</key>
+		<string>KG</string>
+		<key>py</key>
+		<string>ji er ji si si tan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>柬埔寨</string>
+		<key>en</key>
+		<string>Cambodia</string>
+		<key>key</key>
+		<string>KH</string>
+		<key>py</key>
+		<string>jian pu zhai</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>基里巴斯</string>
+		<key>en</key>
+		<string>Kiribati</string>
+		<key>key</key>
+		<string>KI</string>
+		<key>py</key>
+		<string>ji li ba si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>科摩罗</string>
+		<key>en</key>
+		<string>Comoros</string>
+		<key>key</key>
+		<string>KM</string>
+		<key>py</key>
+		<string>ke mo luo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣基茨和尼维斯</string>
+		<key>en</key>
+		<string>Saint Kitts and Nevis</string>
+		<key>key</key>
+		<string>KN</string>
+		<key>py</key>
+		<string>sheng ji ci he ni wei si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>北韩</string>
+		<key>en</key>
+		<string>North Korea</string>
+		<key>key</key>
+		<string>KP</string>
+		<key>py</key>
+		<string>bei han</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>韩国</string>
+		<key>en</key>
+		<string>South Korea</string>
+		<key>key</key>
+		<string>KR</string>
+		<key>py</key>
+		<string>han guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>科威特</string>
+		<key>en</key>
+		<string>Kuwait</string>
+		<key>key</key>
+		<string>KW</string>
+		<key>py</key>
+		<string>ke wei te</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>开曼群岛</string>
+		<key>en</key>
+		<string>Cayman Islands</string>
+		<key>key</key>
+		<string>KY</string>
+		<key>py</key>
+		<string>kai man qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>哈萨克斯坦</string>
+		<key>en</key>
+		<string>Kazakhstan</string>
+		<key>key</key>
+		<string>KZ</string>
+		<key>py</key>
+		<string>ha sa ke si tan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>老挝</string>
+		<key>en</key>
+		<string>Laos</string>
+		<key>key</key>
+		<string>LA</string>
+		<key>py</key>
+		<string>lao wo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>黎巴嫩</string>
+		<key>en</key>
+		<string>Lebanon</string>
+		<key>key</key>
+		<string>LB</string>
+		<key>py</key>
+		<string>li ba nen</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣卢西亚</string>
+		<key>en</key>
+		<string>Saint Lucia</string>
+		<key>key</key>
+		<string>LC</string>
+		<key>py</key>
+		<string>sheng lu xi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>列支敦士登</string>
+		<key>en</key>
+		<string>Liechtenstein</string>
+		<key>key</key>
+		<string>LI</string>
+		<key>py</key>
+		<string>lie zhi dun shi deng</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>斯里兰卡</string>
+		<key>en</key>
+		<string>Sri Lanka</string>
+		<key>key</key>
+		<string>LK</string>
+		<key>py</key>
+		<string>si li lan ka</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>利比里亚</string>
+		<key>en</key>
+		<string>Liberia</string>
+		<key>key</key>
+		<string>LR</string>
+		<key>py</key>
+		<string>li bi li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>莱索托</string>
+		<key>en</key>
+		<string>Lesotho</string>
+		<key>key</key>
+		<string>LS</string>
+		<key>py</key>
+		<string>lai suo tuo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>立陶宛</string>
+		<key>en</key>
+		<string>Lithuania</string>
+		<key>key</key>
+		<string>LT</string>
+		<key>py</key>
+		<string>li tao wan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>卢森堡</string>
+		<key>en</key>
+		<string>Luxembourg</string>
+		<key>key</key>
+		<string>LU</string>
+		<key>py</key>
+		<string>lu sen bao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>拉脱维亚</string>
+		<key>en</key>
+		<string>Latvia</string>
+		<key>key</key>
+		<string>LV</string>
+		<key>py</key>
+		<string>la tuo wei ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>利比亚</string>
+		<key>en</key>
+		<string>Libya</string>
+		<key>key</key>
+		<string>LY</string>
+		<key>py</key>
+		<string>li bi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>摩洛哥</string>
+		<key>en</key>
+		<string>Morocco</string>
+		<key>key</key>
+		<string>MA</string>
+		<key>py</key>
+		<string>mo luo ge</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>摩纳哥</string>
+		<key>en</key>
+		<string>Monaco</string>
+		<key>key</key>
+		<string>MC</string>
+		<key>py</key>
+		<string>mo na ge</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>摩尔多瓦</string>
+		<key>en</key>
+		<string>Moldova</string>
+		<key>key</key>
+		<string>MD</string>
+		<key>py</key>
+		<string>mo er duo wa</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>黑山</string>
+		<key>en</key>
+		<string>Montenegro</string>
+		<key>key</key>
+		<string>ME</string>
+		<key>py</key>
+		<string>hei shan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣马丁</string>
+		<key>en</key>
+		<string>Saint Martin</string>
+		<key>key</key>
+		<string>MF</string>
+		<key>py</key>
+		<string>sheng ma ding</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马达加斯加</string>
+		<key>en</key>
+		<string>Madagascar</string>
+		<key>key</key>
+		<string>MG</string>
+		<key>py</key>
+		<string>ma da jia si jia</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马绍尔群岛</string>
+		<key>en</key>
+		<string>Marshall Islands</string>
+		<key>key</key>
+		<string>MH</string>
+		<key>py</key>
+		<string>ma shao er qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马其顿</string>
+		<key>en</key>
+		<string>Macedonia</string>
+		<key>key</key>
+		<string>MK</string>
+		<key>py</key>
+		<string>ma qi dun</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马里</string>
+		<key>en</key>
+		<string>Mali</string>
+		<key>key</key>
+		<string>ML</string>
+		<key>py</key>
+		<string>ma li</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>缅甸</string>
+		<key>en</key>
+		<string>Burma (Myanmar)</string>
+		<key>key</key>
+		<string>MM</string>
+		<key>py</key>
+		<string>mian dian</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>蒙古</string>
+		<key>en</key>
+		<string>Mongolia</string>
+		<key>key</key>
+		<string>MN</string>
+		<key>py</key>
+		<string>meng gu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>澳门</string>
+		<key>en</key>
+		<string>Macao</string>
+		<key>key</key>
+		<string>MO</string>
+		<key>py</key>
+		<string>ao men</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>北马里亚纳群岛</string>
+		<key>en</key>
+		<string>Northern Mariana Islands</string>
+		<key>key</key>
+		<string>MP</string>
+		<key>py</key>
+		<string>bei ma li ya na qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马提尼克</string>
+		<key>en</key>
+		<string>Martinique</string>
+		<key>key</key>
+		<string>MQ</string>
+		<key>py</key>
+		<string>ma ti ni ke</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>毛里塔尼亚</string>
+		<key>en</key>
+		<string>Mauritania</string>
+		<key>key</key>
+		<string>MR</string>
+		<key>py</key>
+		<string>mao li ta ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>蒙特塞拉特</string>
+		<key>en</key>
+		<string>Montserrat</string>
+		<key>key</key>
+		<string>MS</string>
+		<key>py</key>
+		<string>meng te sai la te</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马耳他</string>
+		<key>en</key>
+		<string>Malta</string>
+		<key>key</key>
+		<string>MT</string>
+		<key>py</key>
+		<string>ma er ta</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>毛里求斯</string>
+		<key>en</key>
+		<string>Mauritius</string>
+		<key>key</key>
+		<string>MU</string>
+		<key>py</key>
+		<string>mao li qiu si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马尔代夫</string>
+		<key>en</key>
+		<string>Maldives</string>
+		<key>key</key>
+		<string>MV</string>
+		<key>py</key>
+		<string>ma er dai fu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马拉维</string>
+		<key>en</key>
+		<string>Malawi</string>
+		<key>key</key>
+		<string>MW</string>
+		<key>py</key>
+		<string>ma la wei</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>墨西哥</string>
+		<key>en</key>
+		<string>Mexico</string>
+		<key>key</key>
+		<string>MX</string>
+		<key>py</key>
+		<string>mo xi ge</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马来西亚</string>
+		<key>en</key>
+		<string>Malaysia</string>
+		<key>key</key>
+		<string>MY</string>
+		<key>py</key>
+		<string>ma lai xi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>莫桑比克</string>
+		<key>en</key>
+		<string>Mozambique</string>
+		<key>key</key>
+		<string>MZ</string>
+		<key>py</key>
+		<string>mo sang bi ke</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>纳米比亚</string>
+		<key>en</key>
+		<string>Namibia</string>
+		<key>key</key>
+		<string>NA</string>
+		<key>py</key>
+		<string>na mi bi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>新喀里多尼亚</string>
+		<key>en</key>
+		<string>New Caledonia</string>
+		<key>key</key>
+		<string>NC</string>
+		<key>py</key>
+		<string>xin ka li duo ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>尼日尔</string>
+		<key>en</key>
+		<string>Niger</string>
+		<key>key</key>
+		<string>NE</string>
+		<key>py</key>
+		<string>ni ri er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>诺福克岛</string>
+		<key>en</key>
+		<string>Norfolk Island</string>
+		<key>key</key>
+		<string>NF</string>
+		<key>py</key>
+		<string>nuo fu ke dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>尼日利亚</string>
+		<key>en</key>
+		<string>Nigeria</string>
+		<key>key</key>
+		<string>NG</string>
+		<key>py</key>
+		<string>ni ri li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>尼加拉瓜</string>
+		<key>en</key>
+		<string>Nicaragua</string>
+		<key>key</key>
+		<string>NI</string>
+		<key>py</key>
+		<string>ni jia la gua</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>荷兰</string>
+		<key>en</key>
+		<string>Netherlands</string>
+		<key>key</key>
+		<string>NL</string>
+		<key>py</key>
+		<string>he lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>挪威</string>
+		<key>en</key>
+		<string>Norway</string>
+		<key>key</key>
+		<string>NO</string>
+		<key>py</key>
+		<string>nuo wei</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>尼泊尔</string>
+		<key>en</key>
+		<string>Nepal</string>
+		<key>key</key>
+		<string>NP</string>
+		<key>py</key>
+		<string>ni bo er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>瑙鲁</string>
+		<key>en</key>
+		<string>Nauru</string>
+		<key>key</key>
+		<string>NR</string>
+		<key>py</key>
+		<string>nao lu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>纽埃</string>
+		<key>en</key>
+		<string>Niue</string>
+		<key>key</key>
+		<string>NU</string>
+		<key>py</key>
+		<string>niu ai</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>新西兰</string>
+		<key>en</key>
+		<string>New Zealand</string>
+		<key>key</key>
+		<string>NZ</string>
+		<key>py</key>
+		<string>xin xi lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>阿曼</string>
+		<key>en</key>
+		<string>Oman</string>
+		<key>key</key>
+		<string>OM</string>
+		<key>py</key>
+		<string>a man</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴拿马</string>
+		<key>en</key>
+		<string>Panama</string>
+		<key>key</key>
+		<string>PA</string>
+		<key>py</key>
+		<string>ba na ma</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>秘鲁</string>
+		<key>en</key>
+		<string>Peru</string>
+		<key>key</key>
+		<string>PE</string>
+		<key>py</key>
+		<string>mi lu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>法属波利尼西亚</string>
+		<key>en</key>
+		<string>French Polynesia</string>
+		<key>key</key>
+		<string>PF</string>
+		<key>py</key>
+		<string>fa shu bo li ni xi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴布亚新几内亚</string>
+		<key>en</key>
+		<string>Papua New Guinea</string>
+		<key>key</key>
+		<string>PG</string>
+		<key>py</key>
+		<string>ba bu ya xin ji nei ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>菲律宾</string>
+		<key>en</key>
+		<string>Philippines</string>
+		<key>key</key>
+		<string>PH</string>
+		<key>py</key>
+		<string>fei lv bin</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴基斯坦</string>
+		<key>en</key>
+		<string>Pakistan</string>
+		<key>key</key>
+		<string>PK</string>
+		<key>py</key>
+		<string>ba ji si tan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>波兰</string>
+		<key>en</key>
+		<string>Poland</string>
+		<key>key</key>
+		<string>PL</string>
+		<key>py</key>
+		<string>bo lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣皮埃尔和密克隆</string>
+		<key>en</key>
+		<string>Saint Pierre and Miquelon</string>
+		<key>key</key>
+		<string>PM</string>
+		<key>py</key>
+		<string>sheng pi ai er he mi ke long</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>皮特凯恩群岛</string>
+		<key>en</key>
+		<string>Pitcairn Islands</string>
+		<key>key</key>
+		<string>PN</string>
+		<key>py</key>
+		<string>pi te kai en qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>波多黎各</string>
+		<key>en</key>
+		<string>Puerto Rico</string>
+		<key>key</key>
+		<string>PR</string>
+		<key>py</key>
+		<string>bo duo li ge</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴勒斯坦</string>
+		<key>en</key>
+		<string>Palestine</string>
+		<key>key</key>
+		<string>PS</string>
+		<key>py</key>
+		<string>ba le si tan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>葡萄牙</string>
+		<key>en</key>
+		<string>Portugal</string>
+		<key>key</key>
+		<string>PT</string>
+		<key>py</key>
+		<string>pu tao ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>帕劳</string>
+		<key>en</key>
+		<string>Palau</string>
+		<key>key</key>
+		<string>PW</string>
+		<key>py</key>
+		<string>pa lao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>巴拉圭</string>
+		<key>en</key>
+		<string>Paraguay</string>
+		<key>key</key>
+		<string>PY</string>
+		<key>py</key>
+		<string>ba la gui</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>卡塔尔</string>
+		<key>en</key>
+		<string>Qatar</string>
+		<key>key</key>
+		<string>QA</string>
+		<key>py</key>
+		<string>ka ta er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>留尼汪</string>
+		<key>en</key>
+		<string>Réunion</string>
+		<key>key</key>
+		<string>RE</string>
+		<key>py</key>
+		<string>liu ni wang</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>罗马尼亚</string>
+		<key>en</key>
+		<string>Romania</string>
+		<key>key</key>
+		<string>RO</string>
+		<key>py</key>
+		<string>luo ma ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>塞尔维亚</string>
+		<key>en</key>
+		<string>Serbia</string>
+		<key>key</key>
+		<string>RS</string>
+		<key>py</key>
+		<string>sai er wei ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>俄罗斯</string>
+		<key>en</key>
+		<string>Russia</string>
+		<key>key</key>
+		<string>RU</string>
+		<key>py</key>
+		<string>e luo si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>卢旺达</string>
+		<key>en</key>
+		<string>Rwanda</string>
+		<key>key</key>
+		<string>RW</string>
+		<key>py</key>
+		<string>lu wang da</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>沙特阿拉伯</string>
+		<key>en</key>
+		<string>Saudi Arabia</string>
+		<key>key</key>
+		<string>SA</string>
+		<key>py</key>
+		<string>sha te a la bo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>所罗门群岛</string>
+		<key>en</key>
+		<string>Solomon Islands</string>
+		<key>key</key>
+		<string>SB</string>
+		<key>py</key>
+		<string>suo luo men qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>塞舌尔</string>
+		<key>en</key>
+		<string>Seychelles</string>
+		<key>key</key>
+		<string>SC</string>
+		<key>py</key>
+		<string>sai she er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>苏丹</string>
+		<key>en</key>
+		<string>Sudan</string>
+		<key>key</key>
+		<string>SD</string>
+		<key>py</key>
+		<string>su dan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>瑞典</string>
+		<key>en</key>
+		<string>Sweden</string>
+		<key>key</key>
+		<string>SE</string>
+		<key>py</key>
+		<string>rui dian</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>新加坡</string>
+		<key>en</key>
+		<string>Singapore</string>
+		<key>key</key>
+		<string>SG</string>
+		<key>py</key>
+		<string>xin jia po</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣赫勒拿</string>
+		<key>en</key>
+		<string>Saint Helena</string>
+		<key>key</key>
+		<string>SH</string>
+		<key>py</key>
+		<string>sheng he le na</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>斯洛文尼亚</string>
+		<key>en</key>
+		<string>Slovenia</string>
+		<key>key</key>
+		<string>SI</string>
+		<key>py</key>
+		<string>si luo wen ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>斯瓦尔巴群岛和扬马延</string>
+		<key>en</key>
+		<string>Svalbard and Jan Mayen</string>
+		<key>key</key>
+		<string>SJ</string>
+		<key>py</key>
+		<string>si wa er ba qun dao he yang ma yan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>斯洛伐克</string>
+		<key>en</key>
+		<string>Slovakia</string>
+		<key>key</key>
+		<string>SK</string>
+		<key>py</key>
+		<string>si luo fa ke</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>塞拉利昂</string>
+		<key>en</key>
+		<string>Sierra Leone</string>
+		<key>key</key>
+		<string>SL</string>
+		<key>py</key>
+		<string>sai la li ang</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣马力诺</string>
+		<key>en</key>
+		<string>San Marino</string>
+		<key>key</key>
+		<string>SM</string>
+		<key>py</key>
+		<string>sheng ma li nuo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>塞内加尔</string>
+		<key>en</key>
+		<string>Senegal</string>
+		<key>key</key>
+		<string>SN</string>
+		<key>py</key>
+		<string>sai nei jia er</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>索马里</string>
+		<key>en</key>
+		<string>Somalia</string>
+		<key>key</key>
+		<string>SO</string>
+		<key>py</key>
+		<string>suo ma li</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>苏里南</string>
+		<key>en</key>
+		<string>Suriname</string>
+		<key>key</key>
+		<string>SR</string>
+		<key>py</key>
+		<string>su li nan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>南苏丹</string>
+		<key>en</key>
+		<string>South Sudan</string>
+		<key>key</key>
+		<string>SS</string>
+		<key>py</key>
+		<string>nan su dan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣多美普林西比</string>
+		<key>en</key>
+		<string>São Tomé and Príncipe</string>
+		<key>key</key>
+		<string>ST</string>
+		<key>py</key>
+		<string>sheng duo mei pu lin xi bi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>萨尔瓦多</string>
+		<key>en</key>
+		<string>El Salvador</string>
+		<key>key</key>
+		<string>SV</string>
+		<key>py</key>
+		<string>sa er wa duo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣马丁岛</string>
+		<key>en</key>
+		<string>Sint Maarten</string>
+		<key>key</key>
+		<string>SX</string>
+		<key>py</key>
+		<string>sheng ma ding dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>叙利亚</string>
+		<key>en</key>
+		<string>Syria</string>
+		<key>key</key>
+		<string>SY</string>
+		<key>py</key>
+		<string>xu li ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>史瓦济兰</string>
+		<key>en</key>
+		<string>Swaziland</string>
+		<key>key</key>
+		<string>SZ</string>
+		<key>py</key>
+		<string>shi wa ji lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>特克斯和凯科斯群岛</string>
+		<key>en</key>
+		<string>Turks and Caicos Islands</string>
+		<key>key</key>
+		<string>TC</string>
+		<key>py</key>
+		<string>te ke si he kai ke si qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>乍得</string>
+		<key>en</key>
+		<string>Chad</string>
+		<key>key</key>
+		<string>TD</string>
+		<key>py</key>
+		<string>zha de</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>法国南部和南极土地</string>
+		<key>en</key>
+		<string>French Southern and Antarctic Lands</string>
+		<key>key</key>
+		<string>TF</string>
+		<key>py</key>
+		<string>fa guo nan bu he nan ji tu di</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>多哥</string>
+		<key>en</key>
+		<string>Togo</string>
+		<key>key</key>
+		<string>TG</string>
+		<key>py</key>
+		<string>duo ge</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>泰国</string>
+		<key>en</key>
+		<string>Thailand</string>
+		<key>key</key>
+		<string>TH</string>
+		<key>py</key>
+		<string>tai guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>塔吉克斯坦</string>
+		<key>en</key>
+		<string>Tajikistan</string>
+		<key>key</key>
+		<string>TJ</string>
+		<key>py</key>
+		<string>ta ji ke si tan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>托克劳</string>
+		<key>en</key>
+		<string>Tokelau</string>
+		<key>key</key>
+		<string>TK</string>
+		<key>py</key>
+		<string>tuo ke lao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>东帝汶</string>
+		<key>en</key>
+		<string>East Timor</string>
+		<key>key</key>
+		<string>TL</string>
+		<key>py</key>
+		<string>dong di wen</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>土库曼</string>
+		<key>en</key>
+		<string>Turkmenistan</string>
+		<key>key</key>
+		<string>TM</string>
+		<key>py</key>
+		<string>tu ku man</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>突尼斯</string>
+		<key>en</key>
+		<string>Tunisia</string>
+		<key>key</key>
+		<string>TN</string>
+		<key>py</key>
+		<string>tu ni si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>汤加</string>
+		<key>en</key>
+		<string>Tonga</string>
+		<key>key</key>
+		<string>TO</string>
+		<key>py</key>
+		<string>tang jia</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>土耳其</string>
+		<key>en</key>
+		<string>Turkey</string>
+		<key>key</key>
+		<string>TR</string>
+		<key>py</key>
+		<string>tu er qi</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>特立尼达和多巴哥</string>
+		<key>en</key>
+		<string>Trinidad and Tobago</string>
+		<key>key</key>
+		<string>TT</string>
+		<key>py</key>
+		<string>te li ni da he duo ba ge</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>吐瓦鲁</string>
+		<key>en</key>
+		<string>Tuvalu</string>
+		<key>key</key>
+		<string>TV</string>
+		<key>py</key>
+		<string>tu wa lu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>台湾</string>
+		<key>en</key>
+		<string>Taiwan</string>
+		<key>key</key>
+		<string>TW</string>
+		<key>py</key>
+		<string>tai wan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>坦桑尼亚</string>
+		<key>en</key>
+		<string>Tanzania</string>
+		<key>key</key>
+		<string>TZ</string>
+		<key>py</key>
+		<string>tan sang ni ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>乌克兰</string>
+		<key>en</key>
+		<string>Ukraine</string>
+		<key>key</key>
+		<string>UA</string>
+		<key>py</key>
+		<string>wu ke lan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>乌干达</string>
+		<key>en</key>
+		<string>Uganda</string>
+		<key>key</key>
+		<string>UG</string>
+		<key>py</key>
+		<string>wu gan da</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>美国本土外小岛屿</string>
+		<key>en</key>
+		<string>United States Minor Outlying Islands</string>
+		<key>key</key>
+		<string>UM</string>
+		<key>py</key>
+		<string>mei guo ben tu wai xiao dao yu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>美国</string>
+		<key>en</key>
+		<string>United States</string>
+		<key>key</key>
+		<string>US</string>
+		<key>py</key>
+		<string>mei guo</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>乌拉圭</string>
+		<key>en</key>
+		<string>Uruguay</string>
+		<key>key</key>
+		<string>UY</string>
+		<key>py</key>
+		<string>wu la gui</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>乌兹别克斯坦</string>
+		<key>en</key>
+		<string>Uzbekistan</string>
+		<key>key</key>
+		<string>UZ</string>
+		<key>py</key>
+		<string>wu zi bie ke si tan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>梵帝冈</string>
+		<key>en</key>
+		<string>Vatican City</string>
+		<key>key</key>
+		<string>VA</string>
+		<key>py</key>
+		<string>fan di gang</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>圣文森特和格林纳丁斯</string>
+		<key>en</key>
+		<string>Saint Vincent and the Grenadines</string>
+		<key>key</key>
+		<string>VC</string>
+		<key>py</key>
+		<string>sheng wen sen te he ge lin na ding si</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>委内瑞拉</string>
+		<key>en</key>
+		<string>Venezuela</string>
+		<key>key</key>
+		<string>VE</string>
+		<key>py</key>
+		<string>wei nei rui la</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>英属维尔京群岛</string>
+		<key>en</key>
+		<string>British Virgin Islands</string>
+		<key>key</key>
+		<string>VG</string>
+		<key>py</key>
+		<string>ying shu wei er jing qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>美属维尔京群岛</string>
+		<key>en</key>
+		<string>United States Virgin Islands</string>
+		<key>key</key>
+		<string>VI</string>
+		<key>py</key>
+		<string>mei shu wei er jing qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>越南</string>
+		<key>en</key>
+		<string>Vietnam</string>
+		<key>key</key>
+		<string>VN</string>
+		<key>py</key>
+		<string>yue nan</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>瓦努阿图</string>
+		<key>en</key>
+		<string>Vanuatu</string>
+		<key>key</key>
+		<string>VU</string>
+		<key>py</key>
+		<string>wa nu a tu</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>瓦利斯和富图纳群岛</string>
+		<key>en</key>
+		<string>Wallis and Futuna</string>
+		<key>key</key>
+		<string>WF</string>
+		<key>py</key>
+		<string>wa li si he fu tu na qun dao</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>萨摩亚</string>
+		<key>en</key>
+		<string>Samoa</string>
+		<key>key</key>
+		<string>WS</string>
+		<key>py</key>
+		<string>sa mo ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>也门</string>
+		<key>en</key>
+		<string>Yemen</string>
+		<key>key</key>
+		<string>YE</string>
+		<key>py</key>
+		<string>ye men</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>马约特</string>
+		<key>en</key>
+		<string>Mayotte</string>
+		<key>key</key>
+		<string>YT</string>
+		<key>py</key>
+		<string>ma yue te</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>南非</string>
+		<key>en</key>
+		<string>South Africa</string>
+		<key>key</key>
+		<string>ZA</string>
+		<key>py</key>
+		<string>nan fei</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>赞比亚</string>
+		<key>en</key>
+		<string>Zambia</string>
+		<key>key</key>
+		<string>ZM</string>
+		<key>py</key>
+		<string>zan bi ya</string>
+	</dict>
+	<dict>
+		<key>cn</key>
+		<string>津巴布韦</string>
+		<key>en</key>
+		<string>Zimbabwe</string>
+		<key>key</key>
+		<string>ZW</string>
+		<key>py</key>
+		<string>jin ba bu wei</string>
+	</dict>
+</array>
+</plist>
